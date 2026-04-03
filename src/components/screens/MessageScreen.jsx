@@ -27,12 +27,11 @@ export default function MessageScreen({ onNext }) {
                     className=" h-auto max-w-xl bg-gradient-to-br from-pink-200 via-pink-100 to-pink-50 rounded-2xl shadow-lg p-4 md:p-6 text-center"
                 >
                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
-                        Happy Birthday, Cutiepie! You deserve all the happiness, love, and smiles in the world today and always.
-                        You have this special way of making everything around you brighter, your smile, your kindness, and the way
-                        you make people feel truly cared for. I hope your day is filled with laughter, surprises, and moments that
-                        make your heart happy. You’re truly one of a kind, and I just want you to know how special you are.
-                        Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness,
-                        success, and all the sweet things life has to offer. 💗
+                        You are not just my best friend — you are a part of my life that I can never imagine living without.
+Sometimes I wonder how different my life would have been if you were not in it. You are more than a friend; you are someone who always stands by me, in every situation, whether times are good or difficult.
+There is something truly special about you — your presence makes everything feel lighter and better. Your words, your support, and simply having you around mean more to me than I can fully express. 🤍
+I may not always say it, but the truth is that I value you deeply. You are one of those rare people who come into life only once, and I am genuinely grateful that you are a part of mine.
+Always remember, no matter what happens or where life takes us, I will always be there for you — in every phase, at every step.
                         Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness,
                     </p>
                 </motion.div>
