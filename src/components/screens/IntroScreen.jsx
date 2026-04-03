@@ -20,10 +20,11 @@ export default function IntroScreen({ onNext, onStartMusic }) {
               filter: "drop-shadow(0 0 20px rgba(255,105,180,0.4))",
             }}
           >
-            A Cutiepie was born on 22 January, 20 years ago!
+            17 April, 2009 — A legend was born… 
+            aur tab se dunya zyada awesome ho gai 😆❤️
           </h1>
           <p className="mt-4 text-xl text-pink-200">
-            Yes, it’s YOU! A little surprise awaits...
+            Haan, wo tum hi ho! A little surprise awaits...
           </p>
         </div>
 
